@@ -14,7 +14,7 @@ Welcome to reflect's github repository, we consist of a group of blockchain deve
 -->
 
 # 💧Reflect
-Our team members are partly from [Linkkey social platform](https://linkkey.io), partly from [Amber](https://www.ambergroup.io/) and [SenseTime Technology](https://www.sensetime.com/), Linkkey is a web3 social and domain project that is still running well.
+Our team members are partly from [Linkkey](https://linkkey.io), partly from [Amber](https://www.ambergroup.io/) and [SenseTime Technology](https://www.sensetime.com/), Linkkey is a web3 social and domain project that is still running well.
 
 Based on Linkkey's technology, we have made a modular split and refactoring optimization, and set up a new tool platform focused on web3 domains - reflect, which is similar to Godaddy for web2 domains, we are dedicated to provide a series of tools for web3 domains and expand web3 domains Use cases.
 
