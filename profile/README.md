@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to reflect's github repository, we consist of a group of blockchain developers, AI developers, we want to build some valuable products or tools for web3 domains, we want to be a one-stop service platform for web3 domains.
+
 <!--
 
 **Here are some ideas to get you started:**
